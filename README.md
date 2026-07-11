@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>## ✨ About Me<br><br>> *"Every great wizard begins as a curious student."* 🪄<br><br>Hi, I'm **Muhammad Umer Farooq** 👋 — a **Computer Science graduate** 🎓 who believes software is the closest thing our world has to magic.<br><br>📖 This GitHub is my enchanted archive, where ideas become projects, experiments turn into discoveries, and every commit adds another page to the story.<br><br>### 🔮 My Magical Disciplines<br>- 🤖 Artificial Intelligence<br>- 🧠 Large Language Models<br>- 🌐 Full-Stack Engineering<br>- ☁️ Cloud Computing<br>- ⚙️ DevOps & Automation<br>- 🏰 System Design<br><br>✨ The degree was merely the prologue.<br><br>🚀 The real adventure starts here.<br>
+<br>> *"Every great wizard begins as a curious student."* 🪄<br><br>Hi, I'm **Muhammad Umer Farooq** 👋 — a **Computer Science graduate** 🎓 who believes software is the closest thing our world has to magic.<br><br>📖 This GitHub is my enchanted archive, where ideas become projects, experiments turn into discoveries, and every commit adds another page to the story.<br><br>### 🔮 My Magical Disciplines<br>- 🤖 Artificial Intelligence<br>- 🧠 Large Language Models<br>- 🌐 Full-Stack Engineering<br>- ☁️ Cloud Computing<br>- ⚙️ DevOps & Automation<br>- 🏰 System Design<br><br>✨ The degree was merely the prologue.<br><br>🚀 The real adventure starts here.<br>
 
 
 ## 🌐 Socials:
