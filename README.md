@@ -1,6 +1,19 @@
 # 💫 About Me:
 <br>> *"Every great wizard begins as a curious student."* 🪄<br><br>Hi, I'm **Muhammad Umer Farooq** 👋 — a **Computer Science graduate** 🎓 who believes software is the closest thing our world has to magic.<br><br>📖 This GitHub is my enchanted archive, where ideas become projects, experiments turn into discoveries, and every commit adds another page to the story.<br><br>### 🔮 My Magical Disciplines<br>- 🤖 Artificial Intelligence<br>- 🧠 Large Language Models<br>- 🌐 Full-Stack Engineering<br>- ☁️ Cloud Computing<br>- ⚙️ DevOps & Automation<br>- 🏰 System Design<br><br>✨ The degree was merely the prologue.<br><br>🚀 The real adventure starts here.<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umerzzz/umerzzz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umerzzz/umerzzz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/umerzzz/umerzzz/output/pacman-contribution-graph.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umerzzz/umerzzz/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umerzzz/umerzzz/output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/umerzzz/umerzzz/output/bomberman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umerzzz) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/umerzzzzz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.umerr005@gmail.com) 
@@ -17,6 +30,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=umerzzz&icon=8&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=umerzzz&icon=8&color=1)](https://visitcount.itsvg.in)
